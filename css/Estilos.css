@@ -1,0 +1,23 @@
+body {
+    background-image: url(../imagenes/fondo.png);
+    justify-content: center;
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+}
+header {
+    font-size: 40px;
+}
+#Poemas {
+    font-family: "Platypi", sa;
+    background: rgba(247, 233, 151, 0.596);
+    height: 1150px;
+    width: 95%;
+    margin-left: 40px;
+    box-shadow: 10px 20px 20px rgb(160, 154, 70);
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 20px;
+}
+#poemas p{
+    margin-top: 500%;
+}
